@@ -10,3 +10,9 @@ Recommended GitHub Pages URLs if published from a public repo named `noor-marria
 
 - `https://muj3009.github.io/noor-marriage-pages/privacy.html`
 - `https://muj3009.github.io/noor-marriage-pages/support.html`
+
+- `child-safety.html` — Child Safety Standards / CSAE standards URL
+
+Recommended URL:
+
+- `https://muj3009.github.io/noor-marriage-pages/child-safety.html`
